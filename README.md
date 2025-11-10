@@ -1,73 +1,52 @@
-# Welcome to your Lovable project
+# 🌾 Agri Mitra – Smart Farming Assistant  
 
-## Project info
+Agri Mitra is an AI-powered platform designed to support farmers with smart and accessible tools. It provides **crop disease prediction**, **chatbot assistance**, **agricultural news updates**, **learning resources**, and a **community platform** — all in one place.  
 
-**URL**: https://lovable.dev/projects/fcab74ef-344a-4988-a466-1695b95bdc3a
+---
 
-## How can I edit this code?
+## 🌟 Features  
 
-There are several ways of editing your application.
+### 🤖 1. AI Chatbot for Farmers  
+- An intelligent chatbot that answers farmers’ queries related to crops, fertilizers, soil, and weather.  
+- Provides instant guidance in a friendly and easy-to-understand way.  
 
-**Use Lovable**
+### 🌿 2. Crop Disease Prediction  
+- Upload a photo of a plant leaf to detect diseases instantly using AI.  
+- Get solutions, precautions, and season-based recommendations.  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fcab74ef-344a-4988-a466-1695b95bdc3a) and start prompting.
+### 📰 3. News Section  
+- Stay updated with the latest agriculture and weather-related news.  
+- Helps farmers make informed decisions based on real-time updates.  
 
-Changes made via Lovable will be committed automatically to this repo.
+### 📚 4. Learning Library  
+- Access articles, guides, and tutorials about modern farming techniques.  
+- Encourages self-learning and knowledge-sharing among farmers.  
 
-**Use your preferred IDE**
+### 👥 5. Farmer Community  
+- A dedicated space for farmers to connect, share experiences, and seek advice.  
+- Includes an option to **join our WhatsApp community** for discussions and updates.  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🔐 6. Login Authentication  
+- Secure user login and registration using Firebase Authentication.  
+- Keeps personal data and preferences safe.  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🧠 Tech Stack  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+| Category | Technologies |
+|-----------|--------------|
+| **Frontend** | React.js, Tailwind CSS, HTML, CSS |
+| **Backend** | Node.js, Express.js |
+| **AI/ML** |  Gemini API |
+| **Database** | SupaBase |
+| **Hosting** | Vercel |
+| **Version Control** | Git & GitHub |
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## ⚙️ Installation and Setup  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/fcab74ef-344a-4988-a466-1695b95bdc3a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/vaishnavi-410/Agri-Mitra.git
